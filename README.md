@@ -1,1 +1,1 @@
-goit-markup-hw-07/
+https://marcinsiwik.github.io/goit-markup-hw-07/
